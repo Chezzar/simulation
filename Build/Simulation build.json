@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Store Simulation",
+"productName": "STAP Oficinas",
 "productVersion": "0.1",
 "dataUrl": "Simulation build.data.unityweb",
 "wasmCodeUrl": "Simulation build.wasm.code.unityweb",
